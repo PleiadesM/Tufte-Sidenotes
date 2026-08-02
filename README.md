@@ -1,4 +1,4 @@
-# Tufte Figures
+# Tufte Figure Helper
 
 An [Obsidian](https://obsidian.md) plugin for composing Tufte-style figures: drop or paste an image to insert column figures with margin captions, full-width figures, or margin figures — with size adjustment, multi-image rows, an image-quilt generator (drag-arrange tiles into one transparent PNG), click-to-enlarge, an edit-at-cursor command, and auto-numbered clickable references. Renders in Reading view.
 
