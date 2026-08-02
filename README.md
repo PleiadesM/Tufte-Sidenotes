@@ -6,7 +6,7 @@ Part of [**Tufte for Obsidian**](https://github.com/PleiadesM/TufteObsidian) —
 
 ## Install
 
-- **Manual:** download `main.js`, `manifest.json`, and `styles.css` from the [latest release](../../releases/latest) into `YourVault/.obsidian/plugins/tufte-figures/`, then enable the plugin in Settings → Community plugins.
+- **Manual:** download `main.js`, `manifest.json`, and `styles.css` from the [latest release](../../releases/latest) into `YourVault/.obsidian/plugins/tufte-figure-helper/`, then enable the plugin in Settings → Community plugins.
 - Pairs best with the [Tufte theme](https://github.com/PleiadesM/TufteObsidian), which supplies the margin gutter the captions sit in.
 
 ## License
