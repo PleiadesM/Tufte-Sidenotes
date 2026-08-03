@@ -1,4 +1,6 @@
-# Tufte Figure Helper
+# Tufte Figures
+
+> **Why is this repository named `Tufte-Sidenotes`?** A historical accident: during the plugin suite's first community-directory submission, this plugin's manifest was briefly mixed up with the sidenotes plugin's, and the directory registered the id `tufte-figures` against a repository by this name. The registry entry is immutable on our side, so the repository keeps the name it was registered under. **The plugin itself is Tufte Figures** (id `tufte-figures`) — the actual sidenotes plugin lives at [PleiadesM/Tufte-Sidenote](https://github.com/PleiadesM/Tufte-Sidenote) (singular).
 
 An [Obsidian](https://obsidian.md) plugin for composing Tufte-style figures: drop or paste an image to insert column figures with margin captions, full-width figures, or margin figures — with size adjustment, multi-image rows, an image-quilt generator (drag-arrange tiles into one transparent PNG), click-to-enlarge, an edit-at-cursor command, and auto-numbered clickable references. Renders in Reading view.
 
@@ -6,7 +8,7 @@ Part of [**Tufte for Obsidian**](https://github.com/PleiadesM/TufteObsidian) —
 
 ## Install
 
-- **Manual:** download `main.js`, `manifest.json`, and `styles.css` from the [latest release](../../releases/latest) into `YourVault/.obsidian/plugins/tufte-figure-helper/`, then enable the plugin in Settings → Community plugins.
+- **Manual:** download `main.js`, `manifest.json`, and `styles.css` from the [latest release](../../releases/latest) into `YourVault/.obsidian/plugins/tufte-figures/`, then enable the plugin in Settings → Community plugins.
 - Pairs best with the [Tufte theme](https://github.com/PleiadesM/TufteObsidian), which supplies the margin gutter the captions sit in.
 
 ## License
